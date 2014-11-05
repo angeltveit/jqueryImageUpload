@@ -11,7 +11,6 @@ $("#uploadButton").imageUpload({id:"#imagePreviewCanvas"});
 * integer: requiredRatio - ie. 1 for a square
 * function: wrongRatio - function to run if the ratio is wrong
 * function: done - function to run when completed successfully
-* 
 
 ## wrongRatio function
 The wrongRatio function is returned with an object containing:
