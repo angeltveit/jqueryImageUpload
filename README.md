@@ -6,6 +6,8 @@ Image Upload creates an uploadbutton and an image preview with the ability to ha
 # How to use it
 $("#uploadButton").imageUpload({id:"#imagePreviewCanvas"});
 
+![Example](http://angeltveiten.com/imageupload.gif)
+
 ## Options
 * string: id - ID of the DOM element holding the image preview (must be an img-tag)
 * integer: requiredRatio - ie. 1 for a square
