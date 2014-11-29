@@ -21,3 +21,6 @@ The wrongRatio function is returned with an object containing:
 * height - height of the selected image
 * object - the image object
 * data - the image Base64 string
+* 
+## PHP server side
+upload the raw data to an SQL-database. Output to an image-tag.
