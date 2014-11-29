@@ -4,7 +4,7 @@ jqueryImageUpload
 Image Upload creates an uploadbutton and an image preview with the ability to handle images which is out of ratio.
 
 # How to use it
-$("#uploadButton").imageUpload({id:"#imagePreviewCanvas"});
+$("#uploadButton").imageUpload({id:"image"});
 
 ![Example](http://angeltveiten.com/imageupload.gif)
 
